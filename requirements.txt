@@ -2,3 +2,5 @@ torch
 loguru
 einops
 numpy
+torchvision
+matplotlib
