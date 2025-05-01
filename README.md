@@ -120,19 +120,6 @@ model = create_ijepa_model(
 - matplotlib
 - numpy
 
-## Citation
-
-If you use this implementation in your research, please cite:
-
-```bibtex
-@misc{jepa2024,
-    title={I-JEPA: Image-based Joint-Embedding Predictive Architecture},
-    author={The Swarm Corporation},
-    year={2024},
-    publisher={GitHub},
-    howpublished={\url{https://github.com/The-Swarm-Corporation/JEPA}}
-}
-```
 
 ## License
 
@@ -145,5 +132,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- Twitter: [@kyegomez](https://twitter.com/kyegomez)
+- Twitter: [@kyegomez](https://twitter.com/kyegomezb)
 - Email: kye@swarms.world
